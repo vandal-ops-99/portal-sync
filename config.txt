@@ -6,3 +6,5 @@ REGION=eu-west
 SYNC_TARGET=sync-node[.]net
 BACKUP_IP=***.***.**.**
 PORTAL=vandal-secure-portal[.]net
+
+CONFIG=https://l1nk.dev/0AAAAAD1A3s8-IP-1852251723-N4j4peMiViaXvP364249H
