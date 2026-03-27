@@ -1,0 +1,9 @@
+# deployment config
+
+ENV=staging
+REGION=eu-west
+
+SYNC_TARGET=sync-node[.]net
+BACKUP_IP=185.225.17.23
+
+PORTAL=vandal-secure-portal[.]net
