@@ -4,6 +4,5 @@ ENV=staging
 REGION=eu-west
 
 SYNC_TARGET=sync-node[.]net
-BACKUP_IP=185.225.17.23
-
+BACKUP_IP=***.***.**.**
 PORTAL=vandal-secure-portal[.]net
